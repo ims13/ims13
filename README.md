@@ -5,7 +5,6 @@
 
 <p align="left">
   <a href="https://github.com/ims13/ims13/" target="blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" height="30" /></a>
-  <a href="https://www.linkedin.com/in/idriss-l-a0361a205/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
   <a href="https://linkedin.com/in/idriss-l-a0361a205" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss l." height="30" /></a>
   <a href="https://discord.gg/idrissmas13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="idrissmas13" height="30" /></a>
 </p>
