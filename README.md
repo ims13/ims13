@@ -14,13 +14,13 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 
 - 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js**, and **express.js**.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Mathematical Foundations
+  - 📊 Machine Learning & Mathematical Foundations 
   - 🖼 Web Development
   - 🛠 DIY Projects involving IoT devices
 - 📝 I write technical blogs and articles (when I start blogging)
 - 👯 I’m looking to collaborate on open-source projects especially in **Machine Learning** and **Web Applications**
 - 💬 Ask me about **Web Development, Cloud Computing, and Machine Learning**
-- 📙 Check out my [Resume](https://www.linkedin.com/in/your-linkedin/)
+- 📙 Check out my [LinkedIn](https://www.linkedin.com/in/idriss-l-a0361a205/)
 - 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
 
   
@@ -31,4 +31,12 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=YourGitHubProfile&show_icons=true&line_height=21&theme=react" alt="Your GitHub Stats" />
+</p>
