@@ -1,37 +1,34 @@
-![Hey there, I'm Idriss. I'm a software developer, a maker, and an infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/YourGitHubProfile/)](https://github.com/YourGitHubProfile/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/YourTwitter)](https://twitter.com/YourTwitter)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/YourStackOverflow)](https://stackoverflow.com/users/YourStackOverflow)
 
-# 👋 &nbsp;Hi there
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming and Analysis. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building web applications and diving into machine learning. <br/><br/>
 
-I'm a software developer based in Toronto, Canada. I enjoy building web applications and I'm deeply interested in Machine Learning and Cloud Services. Currently, I'm a student at Seneca College, focused on Computer Programming and Analysis. You can find me on Twitter [@YourTwitter](https://twitter.com/YourTwitter). Feel free to tweet me any time.
+## ⚡️ A Few Quick Facts
 
-&nbsp;
+- 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js**, and **express.js**.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Mathematical Foundations
+  - 🖼 Web Development
+  - 🛠 DIY Projects involving IoT devices
+- 📝 I write technical blogs and articles (when I start blogging)
+- 👯 I’m looking to collaborate on open-source projects especially in **Machine Learning** and **Web Applications**
+- 💬 Ask me about **Web Development, Cloud Computing, and Machine Learning**
+- 📙 Check out my [Resume](https://www.linkedin.com/in/your-linkedin/)
+- 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
 
-## 👇 &nbsp;Current project
+  
+### 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Lenovo-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
 
-I'm currently extending my knowledge in Machine Learning with the Mathematical Foundations of Machine Learning by Dr Jon Krohn on Udemy.
-
-&nbsp;
-
-## ✏️ &nbsp;Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- You can list your recent blog posts here when you start blogging or sharing project updates.
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
-
-## 🧰 &nbsp;My toolbox
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> &nbsp;<img  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="50" height="50"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-
-&nbsp;
-
-## 📊 &nbsp;Stats
-
-![Idriss' Github Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-<a rel="me" href="https://mastodon.nz/@YourMastodonProfile">Follow me on Mastodon</a>
+### ⚙️ Some Tools and Tech I use
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height
