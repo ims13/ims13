@@ -121,7 +121,3 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ims13&" alt="ims13" /></p>
 
 
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=YourGitHubProfile&show_icons=true&line_height=21&theme=react" alt="Your GitHub Stats" />
-</p>
