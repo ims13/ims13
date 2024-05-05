@@ -1,5 +1,4 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-![Untitled design](https://github.com/ims13/ims13/assets/87872665/2ad8b111-75da-4a9c-a729-a5fd35e756e3)
 
 <img width="50%" src="https://github.com/ims13/ims13/raw/assets/87872665/2ad8b111-75da-4a9c-a729-a5fd35e756e3"> 
 
