@@ -1,7 +1,5 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-<img width="50%" src="https://github.com/ims13/ims13/raw/assets/87872665/2ad8b111-75da-4a9c-a729-a5fd35e756e3"> 
-
 <h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Find me at
