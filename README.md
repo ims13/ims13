@@ -1,12 +1,8 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 ![Untitled design](https://github.com/ims13/ims13/assets/87872665/2ad8b111-75da-4a9c-a729-a5fd35e756e3)
 
-<img width="100%" src="https://github.com/ims13/ims13/raw/assets/87872665/2ad8b111-75da-4a9c-a729-a5fd35e756e3"> <!-- Replace 'YOUR_IMAGE_URL' with the actual URL where the image is hosted -->
-<h1>Howdy!, I am <a href="https://github.com/ims13">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-
-
-<img width="100%" src="https://YOUR_IMAGE_URL"> <!-- Replace 'YOUR_IMAGE_URL' with the actual URL where the image is hosted -->
-<h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<img width="50%" src="https://github.com/ims13/ims13/raw/assets/87872665/2ad8b111-75da-4a9c-a729-a5fd35e756e3"> <!-- Replace 'YOUR_IMAGE_URL' with the actual URL where the image is hosted -->
+<h1>Howdy!, I am <a href="https://github.com/ims13">Idriss L.</a> </h1>
 
 <h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
