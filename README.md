@@ -1,6 +1,6 @@
 <img width="30px" margin="0px" src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5cDI5YmVlM3R6OWF6eXhiNDMycjdxeTNuZnE5cGpsc25pamVrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif)">
 
-‹img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5cDI5YmVlM3R6OWF6eXhiNDMycjdxeTNuZnE5cGpsc25pamVrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif)">
+‹img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5cDI5YmVlM3R6OWF6eXhiNDMycjdxeTNuZnE5cGpsc25pamVrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif)](https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media)">
 
 <h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
