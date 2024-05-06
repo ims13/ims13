@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJ@CLCBGAsYHQ/s1600/2000_600px.gif](https://miro.medium.com/v2/resize:fit:1400/0*Ad5NDgXec-PkZDm4.gif))]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*Ad5NDgXec-PkZDm4.gif]
 
 <h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
