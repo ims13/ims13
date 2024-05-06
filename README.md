@@ -1,4 +1,3 @@
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJ@CLCBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
