@@ -31,8 +31,6 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 - 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
 
 
-![snake gif](https://raw.githubusercontent.com/ims13/ims13/output/github-contribution-grid-snake.svg)
-
 ### 🖥️ My DevSetup
 
 <p align="left">
