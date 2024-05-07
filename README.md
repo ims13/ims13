@@ -122,3 +122,6 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ims13&show_icons=true&locale=en" alt="ims13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ims13&" alt="ims13" /></p>
+
+![snake gif](https://github.com/ims13/ims13/blob/output/github-contribution-grid-snake.gif)
+
