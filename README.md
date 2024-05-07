@@ -30,6 +30,9 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 - 📙 Check out my [LinkedIn](https://www.linkedin.com/in/idriss-l-a0361a205/)
 - 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
 
+
+![snake gif](https://raw.githubusercontent.com/ims13/ims13/output/github-contribution-grid-snake.svg)
+
 ### 🖥️ My DevSetup
 
 <p align="left">
@@ -123,6 +126,4 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ims13&" alt="ims13" /></p>
 
-
-![snake gif](https://raw.githubusercontent.com/ims13/ims13/output/github-contribution-grid-snake.svg)
 
