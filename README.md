@@ -19,7 +19,7 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js**, and **express.js**.
+- 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js**, .Net and **express.js**.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Mathematical Foundations 
   - 🖼 Web Development
