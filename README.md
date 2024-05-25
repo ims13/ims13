@@ -79,23 +79,17 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-#### Mobile App Development
+#### Mobile App Development, Backend as a Service (BaaS) & Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 </p>
-
-
-
-#### DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
-
-#### Backend as a Service (BaaS)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
 
 #### Frameworks
 <p align="left">
@@ -107,16 +101,15 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-#### Game Engines
+#### Game Engines & Other
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
-
-#### Other
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
+
 
 
 ### 🚀 Quick Stats
