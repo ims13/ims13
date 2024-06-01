@@ -23,7 +23,7 @@ I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** ma
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Mathematical Foundations 
   - 🖼 Web Development
-  - 🛠 DIY Projects involving IoT devices
+  - 🤖 DIY Projects involving Robots
 - 📝 I write technical blogs and articles (when I start blogging)
 - 👯 I’m looking to collaborate on open-source projects especially in **Machine Learning** and **Web Applications**
 - 💬 Ask me about **Web Development, Cloud Computing, and Machine Learning**
