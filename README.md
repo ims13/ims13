@@ -5,7 +5,7 @@
 <h1>Howdy!, I am <a href="https://github.com/YourGitHubProfile">Idriss L.</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 📬 Find me at
+### 📬 Find me 
 
 <p align="left">
   <a href="https://github.com/ims13/ims13/" target="blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" height="30" /></a>
