@@ -47,10 +47,15 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/> </p>
 
 ### Mobile App Development, Game Engines & Other Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=android" alt="Android" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/> </p>
-
-🚀 Quick Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ims13&show_icons=true&locale=en&layout=compact" alt="ims13" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api?username=ims13&show_icons=true&locale=en" alt="ims13" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ims13" alt="ims13" /> </p>
+<p align="left">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-android-devices-flaticons-flat-flat-icons-2.png" alt="Android" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-firebase-flaticons-flat-flat-icons.png" alt="Firebase" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-bootstrap-flaticons-flat-flat-icons.png" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-figma-flaticons-flat-flat-icons.png" alt="Figma" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-unity-flaticons-flat-flat-icons.png" alt="Unity" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-git-flaticons-flat-flat-icons.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-tensorflow-flaticons-flat-flat-icons.png" alt="TensorFlow" width="50" height="50"/>
+</p>
 
 ### 🚀 Quick Stats
 
