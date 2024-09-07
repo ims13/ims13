@@ -24,19 +24,8 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 - 📙 Check out my [LinkedIn](https://www.linkedin.com/in/idriss-l-a0361a205/)
 - 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
 
-### 🖥️ My DevSetup
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MacBook-555555.svg?&style=flat-square&logo=apple&logoColor=white" alt="MacBook" height="25"/>
-  <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" height="25"/>
-  <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6" alt="Windows" height="25"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-555555?style=flat-square&logo=visual-studio&logoColor=5C2D91" alt="Visual Studio 2022" height="25"/>
-  <img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="25"/>
-  <img src="https://img.shields.io/badge/Safari-555555.svg?&style=flat-square&logo=safari&logoColor=white" alt="Safari" height="25"/>
-  <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C" alt="Chrome" height="25"/>
-  <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white" alt="Terminal" height="25"/>
-  <img src="https://img.shields.io/badge/Lenovo-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A" alt="Lenovo" height="25"/>
-</p>
+### 🛠 My DevSetup
+<p align="left"> <img src="https://img.shields.io/badge/Device-MacBook-555555?style=flat-square&logo=apple&logoColor=white" alt="MacBook" height="25"/> <img src="https://img.shields.io/badge/OS-Ubuntu-555555?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" height="25"/> <img src="https://img.shields.io/badge/OS-Windows-555555?style=flat-square&logo=windows&logoColor=0078D6" alt="Windows" height="25"/> <img src="https://img.shields.io/badge/Editor-VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="25"/> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%202022-555555?style=flat-square&logo=visual-studio&logoColor=5C2D91" alt="Visual Studio 2022" height="25"/> <img src="https://img.shields.io/badge/Browser-Chrome-555555?style=flat-square&logo=google-chrome&logoColor=FABC0C" alt="Chrome" height="25"/> <img src="https://img.shields.io/badge/Terminal-PowerShell-555555?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" height="25"/> </p>
 
 
 ### ⚙️ Some Tools and Tech I use
