@@ -47,15 +47,7 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/> </p>
 
 ### Mobile App Development, Game Engines & Other Tools
-<p align="left">
-  <img src="https://img.icons8.com/plasticine/100/android.png" alt="Android" width="50" height="50"/> 
-  <img src="https://img.icons8.com/plasticine/100/firebase.png" alt="Firebase" width="50" height="50"/> 
-  <img src="https://img.icons8.com/plasticine/100/bootstrap.png" alt="Bootstrap" width="50" height="50"/> 
-  <img src="https://img.icons8.com/plasticine/100/figma.png" alt="Figma" width="50" height="50"/> 
-  <img src="https://img.icons8.com/plasticine/100/unity.png" alt="Unity" width="50" height="50"/> 
-  <img src="https://img.icons8.com/plasticine/100/git.png" alt="Git" width="50" height="50"/> 
-  <img src="https://img.icons8.com/plasticine/100/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=android" alt="Android" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/> </p>
 
 
 ### 🚀 Quick Stats
