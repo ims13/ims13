@@ -50,27 +50,10 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 <p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/> </p>
 
 #### Advanced Tools for Database, DevOps, and Framework Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/> </p>
 
 #### Mobile App Development, Backend as a Service (BaaS) Software design, Game Engines & Other
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=android" alt="Android" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/> </p>
 
 ### 🚀 Quick Stats
 
