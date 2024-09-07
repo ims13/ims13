@@ -3,11 +3,7 @@
 
 ### 📬 Find me 
 
-<p align="left">
-  <a href="https://github.com/ims13/ims13/" target="blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" height="30" /></a>
-  <a href="https://linkedin.com/in/idriss-l-a0361a205" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss l." height="30" /></a>
-  <a href="https://discord.gg/idrissmas13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="idrissmas13" height="30" /></a>
-</p>
+<p align="left"> <a href="https://github.com/ims13/ims13/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a> <a href="https://linkedin.com/in/idriss-l-a0361a205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a> <a href="https://discord.gg/idrissmas13" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30"/></a> </p>
 
 
 
@@ -17,16 +13,16 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js, .Net** and **express.js**.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Mathematical Foundations 
-  - 🖼 Web Development
-  - 🤖 DIY Projects involving Robots
-- 📝 I write technical blogs and articles (when I start blogging)
-- 👯 I’m looking to collaborate on open-source projects especially in **Machine Learning** and **Web Applications**
-- 💬 Ask me about **Web Development, Cloud Computing, and Machine Learning**
-- 📙 Check out my [LinkedIn](https://www.linkedin.com/in/idriss-l-a0361a205/)
-- 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
+  
+  🔭 Currently working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js, .NET, Express.js.**
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy:
+      📊 Machine Learning & Mathematical Foundations
+      🖼 Web Development
+      🤖 DIY Robotics Projects
+  📝 Planning to write technical blogs soon!
+  👯 Looking to collaborate on open-source projects in Machine Learning and Web Applications.
+  💬 Ask me about Web Development, Cloud Computing, Machine Learning.
+  🎉 Fun Fact: I ❤️ Robotics and space exploration 🚀.
 
 
 ### 🖥️ My DevSetup
