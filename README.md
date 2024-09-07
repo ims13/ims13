@@ -48,14 +48,15 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 
 ### Mobile App Development, Game Engines & Other Tools
 <p align="left">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-android-devices-flaticons-flat-flat-icons-2.png" alt="Android" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-firebase-flaticons-flat-flat-icons.png" alt="Firebase" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-bootstrap-flaticons-flat-flat-icons.png" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-figma-flaticons-flat-flat-icons.png" alt="Figma" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-unity-flaticons-flat-flat-icons.png" alt="Unity" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-git-flaticons-flat-flat-icons.png" alt="Git" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-tensorflow-flaticons-flat-flat-icons.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://img.icons8.com/plasticine/100/android.png" alt="Android" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/firebase.png" alt="Firebase" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/bootstrap.png" alt="Bootstrap" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/figma.png" alt="Figma" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/unity.png" alt="Unity" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/git.png" alt="Git" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
 </p>
+
 
 ### 🚀 Quick Stats
 
