@@ -49,6 +49,9 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 ### Mobile App Development, Game Engines & Other Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=android" alt="Android" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/> </p>
 
+🚀 Quick Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ims13&show_icons=true&locale=en&layout=compact" alt="ims13" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api?username=ims13&show_icons=true&locale=en" alt="ims13" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ims13" alt="ims13" /> </p>
+
 ### 🚀 Quick Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ims13&show_icons=true&locale=en&layout=compact" alt="ims13" /></p>
