@@ -13,6 +13,9 @@
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming and Analysis. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building web applications and diving into machine learning. <br/><br/>
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+I'm a soon-to-be graduate 🎓 @ Seneca Polytechnic 🍁, majoring in Computer Programming and Analysis (expected October 2024). I'm a Tech Enthusiast 💻 with a passion for exploring new technologies, building web applications, and diving deep into machine learning. Always eager to learn, experiment, and take on new challenges!   <br/><br/>
+
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js, .Net** and **express.js**.
