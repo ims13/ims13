@@ -13,23 +13,16 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 
 ## ⚡️ A Few Quick Facts
 
-  
-  🔭 Currently working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js, .NET, Express.js.**
-  
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy:
-  
-      📊 Machine Learning & Mathematical Foundations
-      🖼 Web Development
-      🤖 DIY Robotics Projects
-      
-  📝 Planning to write technical blogs soon!
-  
-  👯 Looking to collaborate on open-source projects in Machine Learning and Web Applications.
-  
-  💬 Ask me about Web Development, Cloud Computing, Machine Learning.
-  
-  🎉 Fun Fact: I ❤️ Robotics and space exploration 🚀.
-
+- 🔭 I’m currently studying and working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js, .Net** and **express.js**.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Mathematical Foundations 
+  - 🖼 Web Development
+  - 🤖 DIY Projects involving Robots
+- 📝 I write technical blogs and articles (when I start blogging)
+- 👯 I’m looking to collaborate on open-source projects especially in **Machine Learning** and **Web Applications**
+- 💬 Ask me about **Web Development, Cloud Computing, and Machine Learning**
+- 📙 Check out my [LinkedIn](https://www.linkedin.com/in/idriss-l-a0361a205/)
+- 🎉 Fun-Fact: I ❤️ Robotics and am fascinated by space exploration 🚀
 
 ### 🖥️ My DevSetup
 
