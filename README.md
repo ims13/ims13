@@ -11,10 +11,8 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming and Analysis. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building web applications and diving into machine learning. <br/><br/>
+I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming and Analysis. I'm a **Tech Enthusiast 💻 😃** with a passion for exploring new technologies, building web applications, and diving deep into machine learning. Always eager to learn, experiment, and take on new challenges! <br/><br/>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I'm a soon-to-be graduate 🎓 @ Seneca Polytechnic 🍁, majoring in Computer Programming and Analysis (expected October 2024). I'm a Tech Enthusiast 💻 with a passion for exploring new technologies, building web applications, and diving deep into machine learning. Always eager to learn, experiment, and take on new challenges!   <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -49,20 +47,7 @@ I'm a soon-to-be graduate 🎓 @ Seneca Polytechnic 🍁, majoring in Computer P
 ### 💼 Skills
 
 #### Programming Languages, Frontend & Backend Development 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/> </p>
 
 #### Advanced Tools for Database, DevOps, and Framework Development
 <p align="left">
