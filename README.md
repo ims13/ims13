@@ -15,13 +15,19 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 
   
   🔭 Currently working on projects using **C, C++, Python, JavaScript, Next.js, React.js, Node.js, .NET, Express.js.**
+  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy:
+  
       📊 Machine Learning & Mathematical Foundations
       🖼 Web Development
       🤖 DIY Robotics Projects
+      
   📝 Planning to write technical blogs soon!
+  
   👯 Looking to collaborate on open-source projects in Machine Learning and Web Applications.
+  
   💬 Ask me about Web Development, Cloud Computing, Machine Learning.
+  
   🎉 Fun Fact: I ❤️ Robotics and space exploration 🚀.
 
 
