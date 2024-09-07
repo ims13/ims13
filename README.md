@@ -40,17 +40,13 @@ I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic �
 
 
 ### ⚙️ Some Tools and Tech I use
-### 💼 Skills:
 ### Programming Languages, Frontend & Backend Development
-
 <p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/> </p>
 
 ### Advanced Tools for Database, DevOps, and Framework Development
-
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/> </p>
 
 ### Mobile App Development, Game Engines & Other Tools
-
 <p align="left"> <img src="https://skillicons.dev/icons?i=android" alt="Android" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/> </p>
 
 ### 🚀 Quick Stats
