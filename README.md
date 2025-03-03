@@ -8,7 +8,7 @@
 
 
 ### 🖥️ A Little About Me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **soon-to-be graduate 🎓(expected October 2024) [@ Seneca Polytechnic 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming and Analysis. I'm a **Tech Enthusiast 💻 😃** with a passion for exploring new technologies, building web applications, and diving deep into machine learning. Always eager to learn, experiment, and take on new challenges! <br/><br/>
+**Graduated 🎓 last October 2024 [@ Seneca Polytechnic 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming and Analysis. I'm a **Tech Enthusiast 💻 😃** with a passion for exploring new technologies, building web applications, and diving deep into machine learning. Always eager to learn, experiment, and take on new challenges! <br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
